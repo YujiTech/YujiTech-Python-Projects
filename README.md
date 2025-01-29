@@ -15,7 +15,7 @@
 
 <h2 align="center"> Description </h2>
 
-_All-In-One-Python-Projects is a collection of all scripts starting from very basic to advance scripts. This is your personal zone where you may search or add any new scripts that can simplify your or other developer's life and give them something to do when they're bored. Start producing exciting scripts that benefit the community._
+_YujiTech-Python-Projects is a collection of all scripts starting from very basic to advance scripts. This is your personal zone where you may search or add any new scripts that can simplify your or other developer's life and give them something to do when they're bored. Start producing exciting scripts that benefit the community._
 
 <hr>
 
