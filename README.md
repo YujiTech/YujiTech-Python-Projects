@@ -55,28 +55,5 @@ These instructions will get you a copy of the project up and running on your loc
 - While making pull request add issue number with `#` (for example `#04`)
 - After approval fork this repository, add your changes then make pull request with issue number and wait for review.
 - Star this repository. 🌟
-
-
-<h2 align=center> Awesome Contributors 🤩 </h2>
-
-Thanks go to these **Wonderful Contributors** ✨✨:
-
-<table>
-	<tr>
-		<td>
-			<a href="https://github.com/YujiTech/YujiTech-Python-Projects.git/graphs/contributors"> 
-	    	<img src="https://github.com/YujiTech/YujiTech-Python-Projects.gi" />t 
-	    </a>
-		</td>
-	</tr>
-</table>
-
-<hr>
-
  
-## License
-*This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.*
-
-
-<hr>
 <h3 align='center'>🎉 😃 Happy Hacking 😃 🎉 </h3>
