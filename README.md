@@ -1,7 +1,7 @@
-<h1 align="center"> All-In-One-Python-Projects </h1>
+<h1 align="center"> YujiTech-Python-Projects </h1>
 
 <!-- banner -->
-![All-In-One-Python-Projects](https://socialify.git.ci/king04aman/all-in-one-python-projects/image?description=1&font=Jost&language=1&logo=https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62813940%3Fv%3D4%26h%3D250%26w%3D250%26fit%3Dcover%26mask%3Dcircle%26maxage%3D7d&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
+![YujiTech-Python-Projects](https://socialify.git.ci/YujiTech/all-in-one-python-projects/image?description=1&font=Jost&language=1&logo=https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62813940%3Fv%3D4%26h%3D250%26w%3D250%26fit%3Dcover%26mask%3Dcircle%26maxage%3D7d&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
 <!-- project badges -->
 [![BuiltByDev](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/king04aman)
@@ -30,11 +30,11 @@ These instructions will get you a copy of the project up and running on your loc
 ## Installing
 1. Clone the repository to your local machine
     ```bash
-    git clone https://github.com/king04aman/All-In-One-Python-Projects.git
+    git clone https://github.com/YujiTech/YujiTech-Python-Projects.git
     ```
 2. Change directory into the cloned repository
     ```bash
-    cd All-In-One-Python-Projects/<Project_name>
+    cd YujiTech-Python-Projects/<Project_name>
     ``` 
 3. Install the required libraries
     ```bash
