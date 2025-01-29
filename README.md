@@ -73,19 +73,7 @@ Thanks go to these **Wonderful Contributors** ✨✨:
 
 <hr>
 
-<h2 align='center'>Project Maintainer </h2>
-
-<table>
-	<tr>
-        <td align="center">
-            <a href="https://github.com/YujiTech">
-            height=100px />
-            </a></br> 
-            <h4 style="color:#ff8c00;font-weight: bolder; font-size: 15px">Aman Kumar</h4>
-        </td>
-    </tr>
-</table>
-
+ 
 ## License
 *This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.*
 
